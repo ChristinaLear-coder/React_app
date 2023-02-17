@@ -14,7 +14,11 @@ function App() {
           <Search />
         </h1>
         <WeatherSearch city="London" />
-        <p> Coded by Lear Christina</p>
+        <p>Coded by Lear Christina </p>
+        <a href="https://github.com/ChristinaLear-coder/React_app">
+          {" "}
+          Open coded source
+        </a>
       </header>
     </div>
   );
